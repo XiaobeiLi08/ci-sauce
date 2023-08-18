@@ -14,6 +14,7 @@ import java.util.Map;
  *
  * @author Sauce Labs
  */
+
 public class BuildInformation implements Serializable {
 
     private String buildId;
